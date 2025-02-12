@@ -1,1 +1,1 @@
-## Welcome to my repository for academic publications. This repository serves as a centralized collection of the PDF versions of my research papers. Feel free to explore and download the files for reference or academic purposes.
+## Welcome to my repository for academic publications. This repository serves as a centralized collection of the PDF versions of my main research papers. Feel free to explore and download the files for reference or academic purposes.
